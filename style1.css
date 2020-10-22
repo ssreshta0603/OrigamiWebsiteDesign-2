@@ -1,0 +1,10 @@
+*{
+    background-image: url(bg2.png);
+}
+.header{
+    color: crimson;
+
+display:flex;
+justify-content: center;
+}
+
